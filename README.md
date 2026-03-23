@@ -1,4 +1,4 @@
-# Project_2026_-Umrilova
+# Project_2026_Umrilova
 ## Ссылку на cхему данных в draw.io
 https://app.diagrams.net/#
 ## Ссылка в Figma
